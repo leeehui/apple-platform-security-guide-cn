@@ -1,3 +1,3 @@
 * apple-platform-security-guide-cn
-** reading notes of "apple platform security guide"
-** "apple platform security guide" 中文版，阅读笔记
+  - reading notes of "apple platform security guide"
+  - "apple platform security guide" 中文版，阅读笔记
